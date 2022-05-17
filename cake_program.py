@@ -47,7 +47,7 @@ def cake_recipe():
         elif cake_type == '3':
             return print_recipe(ingredient_list_l)
         elif cake_type == 'q':
-            print("I prefer to eat in restaurant.")
+            print("I prefer to buy one.")
             break
         else:
             print("Please select again.")
